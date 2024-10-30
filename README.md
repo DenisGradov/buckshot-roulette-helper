@@ -1,6 +1,6 @@
 <a name="beginning"></a>
 
-# Website for help to play in Dota 2
+# Website for help to play in Buckshot Roulette helper
 
 ### Hi, I'm Denis, and I developed my own website Buckshot Roulette helper
 
